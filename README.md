@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0185-department-top-three-salaries) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
