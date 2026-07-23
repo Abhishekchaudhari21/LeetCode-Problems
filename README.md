@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0196-delete-duplicate-emails) |
 | [1251-average-selling-price](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/1251-average-selling-price) |
 ## Two Pointers
 |  |
