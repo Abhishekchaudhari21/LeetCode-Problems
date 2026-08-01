@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Greedy
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 ## Bit Manipulation
 |  |
 | ------- |
