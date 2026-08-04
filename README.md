@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Dynamic Programming
