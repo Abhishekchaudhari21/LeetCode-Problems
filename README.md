@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0065-valid-number) |
 | [0072-edit-distance](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
