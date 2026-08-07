@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0038-count-and-say) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0072-edit-distance) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0056-merge-intervals) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
