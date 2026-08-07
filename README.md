@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0344-reverse-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0344-reverse-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
