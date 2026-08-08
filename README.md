@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0098-validate-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Dynamic Programming
@@ -229,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
