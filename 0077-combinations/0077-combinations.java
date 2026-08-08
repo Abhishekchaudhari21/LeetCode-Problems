@@ -1,0 +1,33 @@
+class Solution {
+
+    List<List<Integer>> ans = new ArrayList<>();
+    List<Integer> path = new ArrayList<>();
+
+    public List<List<Integer>> combine(int n, int k) {
+
+        backtrack(1, n, k);
+
+        return ans;
+    }
+
+    private void backtrack(int start, int n, int k) {
+
+        if (path.size() == k) {
+            ans.add(new ArrayList<>(path));
+            return;
+        }
+
+        // Number of elements still required
+        int need = k - path.size();
+
+        // Leave exactly 'need' numbers available
+        for (int i = start; i <= n - need + 1; i++) {
+
+            path.add(i);
+
+            backtrack(i + 1, n, k);
+
+            path.remove(path.size() - 1);
+        }
+    }
+}
