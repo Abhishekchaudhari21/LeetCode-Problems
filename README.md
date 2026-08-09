@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0068-text-justification) |
 ## Stack
 |  |
 | ------- |
