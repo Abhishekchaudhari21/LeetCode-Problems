@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0087-scramble-string) |
+| [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0221-maximal-square](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0221-maximal-square) |
 ## Recursion
 |  |
