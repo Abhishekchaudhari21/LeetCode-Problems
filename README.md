@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Math
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
