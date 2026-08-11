@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 ## Linked List
