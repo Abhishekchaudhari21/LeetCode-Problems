@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0221-maximal-square](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0221-maximal-square) |
 ## Recursion
 |  |
