@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 ## Array
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
 ## Linked List
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
