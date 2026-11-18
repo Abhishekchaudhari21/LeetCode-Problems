@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0290-word-pattern](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 ## Array
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
