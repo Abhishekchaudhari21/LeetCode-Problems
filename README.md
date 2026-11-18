@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0344-reverse-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 ## Array
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0622-design-circular-queue) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Newton's Method
 |  |
 | ------- |
