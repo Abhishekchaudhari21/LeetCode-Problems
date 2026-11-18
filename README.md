@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 ## Linked List
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
