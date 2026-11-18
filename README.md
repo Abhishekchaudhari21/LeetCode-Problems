@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0221-maximal-square](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0414-third-maximum-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0622-design-circular-queue) |
 ## Sorting
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
+| [0414-third-maximum-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
