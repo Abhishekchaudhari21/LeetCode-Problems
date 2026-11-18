@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0292-nim-game](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 ## Linked List
 |  |
 | ------- |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
