@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0053-maximum-subarray) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0062-unique-paths) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 ## Design
 |  |
