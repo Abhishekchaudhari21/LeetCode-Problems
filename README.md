@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0330-patching-array) |
 | [0414-third-maximum-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0622-design-circular-queue) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0327-count-of-range-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0327-count-of-range-sum) |
 ## Tree
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0327-count-of-range-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0327-count-of-range-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0327-count-of-range-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -432,4 +436,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
