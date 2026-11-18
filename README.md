@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0289-game-of-life](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0289-game-of-life) |
 | [0414-third-maximum-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0622-design-circular-queue) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0289-game-of-life) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0289-game-of-life) |
 ## Monotonic Stack
 |  |
 | ------- |
