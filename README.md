@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -351,4 +355,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
