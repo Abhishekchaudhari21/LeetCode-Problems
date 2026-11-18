@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 ## Array
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -217,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -333,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -363,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
