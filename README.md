@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0330-patching-array) |
 | [0414-third-maximum-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0622-design-circular-queue) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0330-patching-array](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0330-patching-array) |
 ## Backtracking
 |  |
 | ------- |
