@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0622-design-circular-queue) |
 | [0806-number-of-lines-to-write-string](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0313-super-ugly-number) |
+| [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
 ## Recursion
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
 | ------- |
@@ -418,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
