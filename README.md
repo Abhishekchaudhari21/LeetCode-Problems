@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0343-integer-break) |
 ## Linked List
 |  |
 | ------- |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0313-super-ugly-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0343-integer-break) |
 ## Recursion
 |  |
 | ------- |
