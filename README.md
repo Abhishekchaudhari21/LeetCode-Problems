@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -251,12 +252,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0224-basic-calculator](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0342-power-of-four](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
