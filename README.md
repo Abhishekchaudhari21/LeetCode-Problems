@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Abhishekchaudhari21/LeetCode-Problems/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
